@@ -16,7 +16,7 @@ Membangun sistem — yang scalable dan berdampak nyata. <br>
 
 ## 🧑‍💻 About Me
 
-- 🔨 Independent developer
+- 🎓  I'm currently studying at Udayana University
 - 📱 Currently building **[ServiTrack](https://github.com/dwiajicahyono)** — SaaS build with React 19 + Express + PostgreSQL
 - 🎯 Focused on: web projects, SaaS products, and Al/ML
 - 📍 Based in Bali, Indonesia
@@ -57,6 +57,7 @@ Membangun sistem — yang scalable dan berdampak nyata. <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
@@ -66,5 +67,11 @@ Membangun sistem — yang scalable dan berdampak nyata. <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jay24-wq&show_icons=true&theme=default&include_all_commits=true&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jay24-wq&layout=compact&theme=default&hide_border=true" height="160" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jay24-wq&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 ---
