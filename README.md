@@ -17,7 +17,7 @@ Membangun sistem — yang scalable dan berdampak nyata. <br>
 ## 🧑‍💻 About Me
 
 - 🎓  I'm currently studying at Udayana University
-- 📱 Currently building **[ServiTrack](https://github.com/dwiajicahyono)** — SaaS build with React 19 + Express + PostgreSQL
+- 📱 Currently building **[ServiTrack](https://github.com/jay24-wq/servitrack)** — SaaS build with React 19 + Express + PostgreSQL
 - 🎯 Focused on: web projects, SaaS products, and Al/ML
 - 📍 Based in Bali, Indonesia
 
